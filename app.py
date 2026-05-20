@@ -1,3 +1,8 @@
+"""Bitte RAG ChatBot - A Streamlit webapp for a RAG-powered chatbot using OpenAI's GPT-5 model and File Search tool.
+
+url: https://bitte-assistant-jb.streamlit.app
+"""
+
 import os
 import time
 import streamlit as st
